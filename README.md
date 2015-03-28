@@ -1,11 +1,18 @@
+Welcome to the vagrant-tomcat wiki!
+
+
 # vagrant-tomcat
-Ubuntu 12.04 32 bit with Tomcat7
+Ubuntu 12.04 32 bit VM with Tomcat7
 
 
 #Instructions
-git clone https://github.com/reddyr/vagrant-tomcat.git
-cd vagrant-tomcat
-vagrant up
-vagrant ssh
+* `git clone https://github.com/reddyr/vagrant-tomcat.git`<br>
+* `cd vagrant-tomcat`<br>
+* `vagrant up`<br>
+* `vagrant ssh`<br>
 
-#Cheers
+#Requirements
+[Vagrant](http://www.vagrantup.com/downloads)<br>
+[Virtual box](https://www.virtualbox.org/wiki/Downloads)
+
+### Cheers
