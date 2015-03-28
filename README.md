@@ -15,4 +15,9 @@ Ubuntu 12.04 32 bit VM with Tomcat7
 [Vagrant](http://www.vagrantup.com/downloads)<br>
 [Virtual box](https://www.virtualbox.org/wiki/Downloads)
 
+
+#Output
+[Localhost](http://localhost/)
+
+
 ### Cheers
